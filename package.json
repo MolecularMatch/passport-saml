@@ -31,6 +31,7 @@
     "passport-strategy": "*",
     "q": "^1.5.0",
     "winston": "^2.4.5",
+    "winston-logstash": "^0.4.0",
     "xml-crypto": "^1.4.0",
     "xml-encryption": "^1.0.0",
     "xml2js": "0.4.x",
